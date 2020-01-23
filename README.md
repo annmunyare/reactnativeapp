@@ -1,4 +1,4 @@
-# React Native Laravel RESTful API
+# ReactNative App
 This is  simple react native app that pulls data from a laravel backend.
 
 # Table of Contents:
@@ -8,7 +8,7 @@ This is  simple react native app that pulls data from a laravel backend.
 
 ## Laravel configuration:
 ```sh
-$ cd web
+$ cd backend
 $ composer install
 ```
 Then rename the **.env.example** file to **.env**, open it and add your database name, your username and password, then run these commands to generate the key, create tables and insert some data:
