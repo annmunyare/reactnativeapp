@@ -1,5 +1,5 @@
 # ReactNative App
-This is  simple react native app that pulls data from a laravel backend.
+This is a simple react native app that pulls data from a laravel backend.
 
 # Table of Contents:
 * [Laravel configuration](#laravel-configuration)
